@@ -1,0 +1,30 @@
+1. website
+website is a collection of web resources like web pages, multimedia content ( audio,video,animation) which is identified by domain name and located at web server like wwww.google.com
+website may be static or dynamic.
+static website 
+collection of web pages with fixed contents.
+dynamic websites 
+collection of dynamic pages that changes according to user input,date,time,location etc.
+2. www (world wide web)
+It is a system of interconnected public webpages accessible through the internet.
+3. HTTP/HTTPs
+The Hypertext Transfer Protocol (HTTP) is a protocol that can be used to transfer data on the world wide web.
+4. client server
+5. domain 
+A domain name is an easy-to-remember address used to access websites.
+like: .com,.help,.gov,.in,.org. etc
+6. host
+7. hosting
+8. ftp
+File transfer protocol (FTP) is a way to download, upload, and transfer files from one location to another on the Internet and between computer systems.
+9. path
+10. extraction
+11. editor/vs code 
+Editor is a software programs that enable the users to create and edit text files 
+Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.
+12. URL/URN
+URL is a Uniform Resource Locator and is a reference (an address) to a resource on the Internet
+13. address bar 
+address bar refers to text field in a web browser that identifies the cureent user location on web and allows navigating to different websites.
+14. title bar 
+The title bar is the horizontal bar at the top of a window that displays the title of the window and provides various controls and options for managing the window.
