@@ -246,8 +246,35 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <center>
         <h3>Payment form  </h3>
-    <form action="" method="post" enctype="">
+    <form action="" method="post" enctype="" id="payment form">
+        <table>
+         <fieldset>
+            <legend>Your details</legend>
+            <ol>
+                <li><label for="name">Name : </label>
+                     <input type="text" name="Name" id="" placeholder="First and last name"></li>
+                <li><label for="Email">Email : </label>
+                    <input type="email" name="Email" id="email" placeholder="example@domain.com"></li>
+                <li><label for="phone">Phone : </label>
+                    <input type="text" name="number" id="number" placeholder="Eg. +44750000000"></li>
+            </ol>
+         </fieldset>
+         <fieldset>
+            <legend>Delivaery address</legend>
+            <ol>
+                <li><label for="Address">Address</label>
+                    <textarea id="Address" rows="4" cols="50"></textarea></li>
+                <li><label for="postcode/zip">Postcode/zip:</label>
+                    <input type="text" name="postcode/zip" id="postcode/zip"></li>
+                <li><label for="Country">Country : </label>
+                    <input type="text" name="country" id="country"></li>
+            </ol>
+         </fieldset>
+        </table>
+        
+    </center>
     </body>
     </html>
     
