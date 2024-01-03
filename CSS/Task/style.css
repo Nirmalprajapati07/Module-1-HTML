@@ -1,0 +1,7 @@
+body{
+    background-image: url(../images/pluto.png),url(../images/venus.png),url(../images/jupiter.png),url(../images/mercury.png),url(../images/earth.png),url(../images/Mars.png),url(../images/background\ sun.png),url(../images/solarsystem.jpg);
+    background-repeat: no-repeat;
+    background-size: 140px,147px,220px,83px,122px,88px,500px,cover;
+    background-position: 83% 33%,71% 31%,58% 30% ,47% 34%,37% 34%,28% 34%,-9% 15%;
+    margin-top: 56%;
+}
