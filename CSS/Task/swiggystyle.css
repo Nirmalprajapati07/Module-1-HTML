@@ -1,0 +1,142 @@
+.header{
+    width: 211px;
+    position: absolute;
+    left: 4px;
+    top: -26px;
+    opacity: 101;
+    fill: #fc8019;
+    margin-top: 40px;
+    transform: scale(1.0)
+}
+.upperrow{
+    display: flex;
+    justify-content: space-around
+}
+.btn>button{
+    padding: 8px 30px;
+    font-size: 16px;
+    background-color: black;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding: 0px 20px;
+}
+.main h1{
+    padding: 100px 0px 0px;
+    font-size: 40px;
+    color: darkslategray;
+}
+.main p{
+    color: darkcyan;
+    font-size: 22px;
+}
+.form input {
+    height: 65px;
+    width: 541px;
+}
+::placeholder{
+    font-size: 30px;
+}
+.form button{
+    padding: 24px 30px;
+    font-size: 16px;
+    background-color: orange;
+    color: aliceblue;
+}
+.locate h3{
+    padding: 5px;
+    font-size: 20px;
+    color: grey;
+}
+.locate p{
+   color: darkslategrey;
+   font-size: 18px;
+}
+.foodimg{
+    position: absolute;
+    left: calc(31% + 235px);
+    right: 0px;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: 89%;
+    top: 50px;
+
+}
+.box{
+    background-color: #2b1e16;
+    margin: 1;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1 h2{
+      color: white;
+}
+.box2 h2{
+    color: white;
+}
+.box3 h2{
+    color: white;
+}
+.box1 p{
+    color:lightgray 
+}
+.box2 p{
+  color:lightgray 
+}
+.box3 p{
+  color:lightgray 
+}
+.header3{
+      background-color: black;
+      width: 100%;
+      height: 400px;
+      margin: 10px;
+}
+.h13 h1{
+     color: white;
+}
+.h13 h3{
+    color: lightgray;
+}
+.phoneimg1{
+    position: relative;
+    left: 82%;
+    top: -66%;
+}
+.phoneimg2{
+    position: relative;
+    left: 49%;
+    top: -140%
+}
+.boxx{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxx .box1 p{
+    color: white;
+}
+.boxx .box2 p{
+    color: white;
+}
+
+.boxx .box3 p{
+    color: white;
+}
+.boxx .box1 h2{
+    color: darkslategray;
+}
+.boxx .box2 h2{
+    color: darkslategray;
+}
+
+.boxx .box3 h2{
+    color: darkslategray;
+}
+
+

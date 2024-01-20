@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+nav{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    font-size: 26px;
+}
+nav h1{
+    font-size: 40px;
+    border-bottom:5px solid rgba(250,10,10,0.801);
+    border-radius: 40px;
+    color: red;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    margin-inline: 30px;
+}
+.btn button {
+    width: 100px;
+    height: 36px;
+    border: 3px solid rgba(250,10,10,0.801);
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 30px;
+}
+.main-div{
+    font-size: 30px;
+    margin-left: 40px;
+}
+img img{
+    margin-right: 30px;
+    width: 370px;
+}
+.head button{
+    width: 180px;
+    height: 45px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    border-radius: 6px;
+
+}
+.head button:hover{
+    background-color: black;
+    border: 3px solid red;
+    cursor: pointer;
+}
