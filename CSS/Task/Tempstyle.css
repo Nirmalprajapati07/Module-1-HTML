@@ -1,0 +1,356 @@
+.Box1{
+    padding-top: 1px;
+    background: url(../images/Group\ 1.png);
+    background-color: rgb(252, 234, 237);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.Box1 .header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 61px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+    width: 90%;
+    margin-left: 64px;
+}
+.Box1 .word h1{
+    font-family: fangsong;
+    font-size: 86px;
+    padding-top: 21px
+}
+.Box1 .word h2{
+    font-family: monospace;
+    font-size: 39px;
+    padding-top: 0px
+}
+.Box1 .word p{
+    font-family: monospace;
+    font-size: 12px;
+    padding-top: 0px
+}
+.Box1 .word2 h2{
+    font-family: cursive;
+    font-size: 15px;
+    margin-left: 261px;
+    margin-top: 88px;
+}
+.Box1 .word2 h3{
+    font-size: 15px;
+    margin-left: 377px;
+    margin-top: -33px;
+    color: black;
+    font-family: cursive;
+}
+.mainimg{
+    margin-top: -625px;
+    margin-left: 600px
+}
+.Box2{
+    padding-top: 1px;
+    background: url(../images/Design.png);
+    width: 100%;
+    height: 156px;
+    background-color: #ff6782
+}
+.Box2 h1{
+    font-size: 60px;
+    line-height: 67px;
+    color: #f6f6f9;
+    font-weight: 700;
+    font-family: "Unna";
+    text-align: center;
+    letter-spacing: -1px;
+    margin-top: 12px
+}
+.Box2 p{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: fangsong;
+    margin-top: -44px;
+    margin-left: 638px
+}
+.Boxx3{
+    padding-top: 1px;
+    background-color: grey;
+    width: 100%;
+    height: 700px;
+}
+.Box3{
+    margin-left: 219px;
+    margin-top: 86px
+}
+.box3second{
+    margin-left: 662px;
+    margin-top: -261px
+}
+.box3third{
+    margin-left: 1048px;
+    margin-top: -248px
+}
+.Boxx3 .words h1{
+    margin-left: 393px;
+    font-size: 93px;
+}
+.Boxx3 .words p{
+    font-size: 38px;
+    margin-left: 197px;
+}
+.Box4{
+    padding-top: 1px;
+    background: url(../images/Group\ 4.png) no-repeat;
+    background-color: #ff839a;
+    width: 100%;
+    height: 840px
+}
+.Box4 .words h1{
+    font-size: 73px;
+    color: #333333;
+    font-weight: 400;
+    font-family: auto;
+    margin-left: 1112px;
+    margin-top: 212px
+}
+.Box4 .words p{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 40;
+    font-family: auto;
+    margin-left: 1110px;
+    margin-top: 22px;
+}
+.Box4 .words h3{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 40;
+    font-family: cursive;
+    margin-left: 1110px;
+    margin-top: 56px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    width: 7%;
+    padding: 8px
+}
+.Box5{
+    padding-top: 1px;
+    background: url(../images/Group\ 5\ \(1\).png) no-repeat;
+    background-position: 61px -116px;
+    background-color: rgb(207, 207, 207);
+    width: 100%;
+    height: 700px
+}
+.Box5 .words h1{
+    font-size: 63px;
+    font-weight: 400;
+    font-family: "Sacramento";
+    color: #333333;
+    margin-left: 41px;
+}
+.Box5 .words p{
+    font-size: 26px;
+    font-weight: 100;
+    font-family: "Sacramento";
+    color: #333333;
+    padding-top: 33px;
+    margin-left: 45px
+}
+.Box5 .words h3{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 100;
+    font-family: cursive;
+    margin-left: 45px;
+    padding-top: 10px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    width: 7%;
+    padding: 8px
+}
+.Box6{
+    padding-top: 1px;
+    background: url(../images/Group\ 6.png) no-repeat;
+    background-position: 61px -116px;
+    background-color: #efd0ca;
+    width: 100%;
+    height: 700px
+}
+.Box6 .words h1{
+    font-size: 73px;
+    color: #333333;
+    font-weight: 400;
+    font-family: auto;
+    margin-left: 1112px;
+    margin-top: 212px
+}
+.Box6 .words p{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 40;
+    font-family: auto;
+    margin-left: 1110px;
+    margin-top: 22px;
+}
+.Box6 .words h3{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 40;
+    font-family: cursive;
+    margin-left: 1110px;
+    margin-top: 56px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    width: 7%;
+    padding: 8px
+}
+.Box7{
+    padding-top: 1px;
+    background: url(../images/Group\ 7.png) no-repeat;
+    background-position: 61px -116px;
+    background-color: #efd0ca;
+    width: 100%;
+    height: 700px
+}
+.Box7 .words h1{
+    font-size: 73px;
+    color: #333333;
+    font-weight: 400;
+    font-family: auto;
+    margin-left: 517px;
+    margin-top: -4px
+}
+.Box7 .words p{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 40;
+    font-family: auto;
+    margin-left: 582px;
+    margin-top: -43px;
+}
+.Box8{
+    padding-top: 1px;
+    background: url(../images/Group\ 8.png) no-repeat;
+    background-position: 61px -116px;
+    background-color: rgb(207, 207, 207);
+    width: 100%;
+    height: 700px
+}
+.Box8 .words h1{
+    font-size: 63px;
+    font-weight: 400;
+    font-family: "Sacramento";
+    color: #333333;
+    margin-left: 41px;
+}
+.Box8 .words p{
+    font-size: 26px;
+    font-weight: 100;
+    font-family: "Sacramento";
+    color: #333333;
+    padding-top: 33px;
+    margin-left: 45px
+}
+.Box8 .words h3{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 100;
+    font-family: cursive;
+    margin-left: 45px;
+    padding-top: 10px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    width: 7%;
+    padding: 8px
+}
+.Box9{
+    padding-top: 1px;
+    background: url(../images/Group\ 9.png) no-repeat;
+    background-position: 61px -116px;
+    background-color:  rgb(207, 207, 207);
+    width: 100%;
+    height: 700px
+}
+.Box9 h1{
+    margin-left: 900px;
+    margin-top: 131px;
+}
+.BoxEight1{
+    margin-left: 801px;
+    margin-top: 48px;
+    border: solid rgb(239, 232, 232);
+    width:45% ;
+    height: 33px;
+    color: #333333;
+}
+.BoxEight2{
+    margin-left: 800px;
+    margin-top: 31px;
+    border: solid rgb(239, 232, 232);
+    width: 45%;
+    height: 33px;
+    color: #333333;
+}
+.BoxEight3{
+    margin-left: 800px;
+    margin-top: 31px;
+    border: solid rgb(239, 232, 232);
+    width: 45%;
+    height: 70px;
+    color: #333333;
+}
+.Box9 h3{
+    color: white;
+    margin-left: 1100px;
+    width: 138px;
+    border-radius: 46px;
+    background-color: #a3aa68;
+    height: 44px;
+    margin-top: 10px;
+    padding: 9px;
+    font-size: 23px
+}
+.Box10{
+    height: 654px;
+    background-color: lightslategray;
+    width: 100%;
+}
+.section{
+    color: rgb(239, 239, 239);
+    display: flex;
+    justify-content: space-around;
+}
+.Box10 .words h2{
+    color: #ff6782;
+    font-family: cursive;
+    margin-left: 1008px;
+    margin-top: 106px;
+    font-size: 46px
+}
+.facebook{
+    width: 33px;
+    height: 37px;
+    margin-left: 1274px;
+    margin-top: -79px;
+    font-size: 33px
+}
+.instagram{
+    width: 26px;
+    height: 31px;
+    margin-left: 1311px;
+    margin-top: -37px;
+    font-size: 35px
+
+}
+.Youtube{
+    width: 34px;
+    height: 37px;
+    margin-left: 1350px;
+    margin-top: -31px;
+    font-size: 33px;
+}
