@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>navbar</title>
+    <style>
+        .navbar ul{
+            list-style-type: none;
+            display: flex;
+            justify-content: space-around;
+            background-color: black;
+            color: white;
+            padding: 10px;
+            display: none;
+        }
+        .input:checked+div{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <input type="checkbox">
+    <div class="navbar">
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Clients</li>
+        <li>Contact</li>
+    </ul>
+    </div>
+</body>
+</html>
