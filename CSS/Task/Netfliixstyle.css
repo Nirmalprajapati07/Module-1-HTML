@@ -99,6 +99,13 @@ nav button{
     align-items: center;
     padding: 50px 0;
 }
+.row{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 50px 0;   
+}
 .text-col{
     flex-basis: 50%;
     margin-bottom: 20px;
